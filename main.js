@@ -2,7 +2,7 @@ onload = () =>{
         document.body.classList.remove("container");
 };
 
-var miAudio = document.getElementById('Elvis');
+var miAudio = document.getElementById('LATINMAFIA');
 
 // Función para iniciar la reproducción al hacer clic en cualquier lugar de la pantalla
 function iniciarReproduccion() {
